@@ -1,8 +1,7 @@
 <?php
 /*
 Plugin Name: Boombox Shortcode Plugin
-Description: Enables shortcode to embed Boombox widgets. Usage: <code>
-[boombox widget="quiz" id="123" width="100%" height="auto"]</code>. This code is available to copy and paste directly from the Boombox share screen.
+Description: Boombox helps serious publishers, brands and agencies create stunning interactive content (quizzes, polls, etc) and drive engagement.
 Version: 1.0.0
 License: GPL
 Author: Boombox
